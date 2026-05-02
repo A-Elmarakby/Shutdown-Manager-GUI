@@ -4,6 +4,13 @@
     <OutputType>WinExe</OutputType>
     <TargetFramework>net48</TargetFramework>
     <UseWindowsForms>true</UseWindowsForms>
+    
+    <AssemblyTitle>Shutdown Timer GUI</AssemblyTitle>
+    <Company>Abdelrahman Elmarakby</Company>
+    <Product>Shutdown Timer</Product>
+    <Copyright>© 2026 Abdelrahman Elmarakby</Copyright>
+    
+    <ApplicationIcon>..\assets\App-Icon.ico</ApplicationIcon>
   </PropertyGroup>
 
 </Project>
