@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyCopyrightAttribute("© 2026 Abdelrahman Elmarakby")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e8c5735689ab623db29295c5a5c9f062a38b7875")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+11cb85470426aa20bac4301999366d21addd8939")]
 [assembly: System.Reflection.AssemblyProductAttribute("Shutdown Timer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Shutdown Timer GUI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
