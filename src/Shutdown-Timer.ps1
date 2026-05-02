@@ -59,7 +59,8 @@ $btnOK.Add_Click({
     $hours = $textBox.Text
     try {
         $seconds = [math]::Round([double]$hours * 3600)
-        & shutdown -s -t $seconds
+        # Execute shutdown command with -f to force close applications
+        & shutdown -s -f -t $seconds
         [console]::beep(1000, 200)
         [console]::beep(1500, 200)
         [System.Windows.Forms.MessageBox]::Show("The computer will shut down in $hours hour(s).", "A-Elmarakby", 0, [System.Windows.Forms.MessageBoxIcon]::Information)
