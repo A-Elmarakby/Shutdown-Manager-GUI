@@ -1,0 +1,12 @@
+C:\Users\AbdelrahmanElmarakby\Desktop\Shutdown-Timer-GUI_v4\src\bin\Debug\net48\ShutdownTimer.exe.config
+C:\Users\AbdelrahmanElmarakby\Desktop\Shutdown-Timer-GUI_v4\src\bin\Debug\net48\ShutdownTimer.exe
+C:\Users\AbdelrahmanElmarakby\Desktop\Shutdown-Timer-GUI_v4\src\bin\Debug\net48\ShutdownTimer.pdb
+C:\Users\AbdelrahmanElmarakby\Desktop\Shutdown-Timer-GUI_v4\src\obj\Debug\net48\ShutdownTimer.csproj.AssemblyReference.cache
+C:\Users\AbdelrahmanElmarakby\Desktop\Shutdown-Timer-GUI_v4\src\obj\Debug\net48\ShutdownTimer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AbdelrahmanElmarakby\Desktop\Shutdown-Timer-GUI_v4\src\obj\Debug\net48\ShutdownTimer.AssemblyInfoInputs.cache
+C:\Users\AbdelrahmanElmarakby\Desktop\Shutdown-Timer-GUI_v4\src\obj\Debug\net48\ShutdownTimer.AssemblyInfo.cs
+C:\Users\AbdelrahmanElmarakby\Desktop\Shutdown-Timer-GUI_v4\src\obj\Debug\net48\ShutdownTimer.csproj.CoreCompileInputs.cache
+C:\Users\AbdelrahmanElmarakby\Desktop\Shutdown-Timer-GUI_v4\src\obj\Debug\net48\ShutdownTimer.sourcelink.json
+C:\Users\AbdelrahmanElmarakby\Desktop\Shutdown-Timer-GUI_v4\src\obj\Debug\net48\ShutdownTimer.exe
+C:\Users\AbdelrahmanElmarakby\Desktop\Shutdown-Timer-GUI_v4\src\obj\Debug\net48\ShutdownTimer.pdb
+C:\Users\AbdelrahmanElmarakby\Desktop\Shutdown-Timer-GUI_v4\src\obj\Debug\net48\ShutdownTimer.exe.config
